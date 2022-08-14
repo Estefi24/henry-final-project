@@ -19,4 +19,4 @@ The final project to pass SoyHenry's Fullstack Web Developer bootcamp
 
 
 ## Description
-es una app de venta online de zapatillas cuyas funcionalidades son: busqueda, filtros, paginado, footer, auntenticación, detalle de las zapatillas, creacion de zapatillas, carrito y pasarela de pagos.
+Online shoe sales app whose features are: search, filters, paging, footer, authentication, shoe details, shoe creation, cart and payment gateway.
